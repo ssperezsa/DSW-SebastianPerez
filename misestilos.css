@@ -1,0 +1,19 @@
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.menu{
+    text-align: center;
+    padding: 40px;
+    background-color: #F0B429;
+    max-width: 100%;
+}
+.subtitulos{
+    text-indent: inherit;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #005883;
+}
+.texto{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
